@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupam Karmakar</h1>
-<h3 align="center">A Passionate Tech Geek, Developer, Freelancer, Web3 Enthusiast, Blockchain Aficionado, AI & ML Enthusiast, Content Writer</h3>
+<h3 align="center"> A Passionate Tech Geek, Developer, Freelancer Ace, Web3 & Blockchain Enthusiast, AI & ML Aficionado, Creative Scribbler & A Life-Long Learner, Explorer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupamp26&label=Profile%20views&color=0e75b6&style=flat" alt="rupamp26" /> </p>
 
