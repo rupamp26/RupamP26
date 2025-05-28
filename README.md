@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupam Karmakar</h1>
-<h3 align="center"> A Passionate Tech Geek, Developer, Freelancer Ace, Web3 & Blockchain Enthusiast, AI & ML Aficionado, Creative Scribbler & A Life-Long Learner, Explorer!</h3>
+<h3 align="center"> Building @ArogyaX.ai & @NexForge Studios | Developer, Traveller, Tech Visionary, Web3 & Blockchain, AI/ML; Specially Backend, Prolific Scribbler. An part-time cricketer also an Insatiable Learner & Eternal Explorer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupamp26&label=Profile%20views&color=0e75b6&style=flat" alt="rupamp26" /> </p>
 
