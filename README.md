@@ -32,11 +32,6 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rupamp26) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rupam1105"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rupam1105" /></a><a href="https://ko-fi.com/RupamP26"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="RupamP26" /></a></p><br><br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupamp26&show_icons=true&locale=en&layout=compact" alt="rupamp26" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupamp26&show_icons=true&locale=en" alt="rupamp26" /></p>
