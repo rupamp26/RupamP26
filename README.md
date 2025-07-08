@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rupam Karmakar</h1>
 <h3 align="center"> Building ArogyaX.ai & NexForge Studios | Developer, Traveller, Tech Visionary, Web3 & Blockchain, AI/ML; Specially Backend, Prolific Scribbler. An part-time cricketer also an Insatiable Learner & Eternal Explorer!</h3>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rupamp26&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupamp26&label=Profile%20views&color=0e75b6&style=flat" alt="rupamp26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupamp26" alt="rupamp26" /></a> </p>
@@ -22,8 +25,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rupamp26&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rupamp26&icon=0&color=13)](https://visitcount.itsvg.in)
