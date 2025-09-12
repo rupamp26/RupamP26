@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupam Karmakar</h1>
-<h3 align="center">Building InnoVentum Labs & NexForge Studio | Backend Developer, dApps-DeFi, Web3 & Chain, AI - Research | 3x Hackathon Winner | Cricket, Travel, Curiosity!</h3>
+<h3 align="center">Building QuantumArc Labs & Compact.Pi | Backend Developer, dApps-DeFi, Web3 & Chain, AI - Research | 3x Hackathon Winner | Cricket, Travel, Curiosity!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupamp26&label=Profile%20views&color=0e75b6&style=flat" alt="rupamp26" /> </p>
 
