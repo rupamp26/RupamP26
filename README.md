@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/rupamp26" target="blank"><img src="https://img.shields.io/twitter/follow/rupamp26?logo=twitter&style=for-the-badge" alt="rupamp26" /></a> </p>
 
-- 🔭 I’m currently working on **AptosPay, Helix.ai, ArogyaX.ai**
+- 🔭 I’m currently working on **AccordFolio, SentimentVelocity Bot, AptosPay, Helix.ai, ArogyaX.ai**
 
 - 🌱 I’m currently learning **Solidity, Move, ReactNative**
 
-- 👯 I’m looking to collaborate on **AptosPay, Helix.ai, ArogyaX.ai**
+- 🤝 I’m looking for help with **AccordFolio, SentimentVelocity Bot, AptosPay, Helix.ai, ArogyaX.ai**
 
-- 🤝 I’m looking for help with **AptosPay, Helix.ai, ArogyaX.ai**
-
-- 👨‍💻 All of my projects are available at [https://rupamkarmakar.vercel.app/](https://rupamkarmakar.vercel.app/)
+- 👨‍💻 Portfolio [https://rupamkarmakar.vercel.app/](https://rupamkarmakar.vercel.app/)
 
 - 💬 Ask me about **Everything**
 
