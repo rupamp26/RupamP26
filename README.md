@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupam Karmakar</h1>
 <h3 align="center">Building QuantumArc Labs & Compact.Pi | Backend Developer, dApps-DeFi, Web3 & Chain, AI - Research | 3x Hackathon Winner | Cricket, Travel, Curiosity!</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xrupamp26)](https://github.com/0xrupamp26/github-profile-trophy)
 
 <p align="left"> <a href="https://x.com/0xrupamp26" target="blank"><img src="https://img.shields.io/twitter/follow/0xrupamp26?logo=twitter&style=for-the-badge" alt="rupamp26" /></a> </p>
 
